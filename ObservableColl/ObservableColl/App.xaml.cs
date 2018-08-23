@@ -11,7 +11,7 @@ namespace ObservableColl
 		{
 			InitializeComponent();
 
-			MainPage = new MainPage();
+			MainPage = new Layout();
 		}
 
 		protected override void OnStart ()
